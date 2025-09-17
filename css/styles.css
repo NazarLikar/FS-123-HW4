@@ -381,6 +381,7 @@ img{
 .extra_info{
     transform: translateY(100%);
     position: absolute;
+    text-align: center;
     top: 0;
     left: 0;
     color: #f4f4fd;
